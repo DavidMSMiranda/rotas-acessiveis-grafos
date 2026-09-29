@@ -1,0 +1,485 @@
+6
+238
+0 "Av. Cruzeiro Do Sul, 3337" 0
+1 "Parada 1" 0
+2 "Parada 2" 0
+3 "Av. Cruzeiro Do Sul, 2867" 0
+4 "R. Voluntários Da Pátria, 1658" 0
+5 "Parada 1" 0
+6 "R. Alfredo Pujol, 142" 0
+7 "R. Alfredo Pujol, 570" 0
+8 "R. Alfredo Pujol, 862" 0
+9 "R. Alfredo Pujol, 1180" 0
+10 "R. Alfredo Pujol, 1330" 0
+11 "R. Alfredo Pujol, 1462" 0
+12 "R. Alfredo Pujol, 1640" 0
+13 "R. Alfredo Pujol, 1844" 0
+14 "R. Leão XIII, 372" 0
+15 "R. Leão XIII, 690" 0
+16 "Av. Casa Verde, 802" 0
+17 "Av. Casa Verde, 1122" 0
+18 "Av. Casa Verde, 1350" 0
+19 "R. Dr. Jorge Brand, 199" 0
+20 "Av. Baruel, 317" 0
+21 "R. Urbano Duarte, 785" 0
+22 "R. Urbano Duarte, 459" 0
+23 "R. Carandaí, 106" 0
+24 "R. Carandaí, 322" 0
+25 "R. Dr. Cesar Castiglioni Júnior, 405" 0
+26 "R. Dr. Cesar Castiglioni Júnior, 57" 0
+27 "R. Bernardino Fanganiello, 53" 0
+28 "R. Zanzibar, 190" 0
+29 "Av. Dr. Abraão Ribeiro, 503" 0
+30 "Av. Dr. Abraão Ribeiro, 313" 0
+31 "Av. Dr. Abraão Ribeiro, 53" 0
+32 "Av. Mário De Andrade, 564" 0
+33 "Av. Mário De Andrade, 0" 0
+34 "Av. Mário De Andrade" 0
+35 "Av. Mário De Andrade, 0" 0
+36 "Av. Mário De Andrade, 0" 0
+37 "Av. Pacaembu, 406" 0
+38 "Av. Pacaembu, 820" 0
+39 "R. Cardoso De Almeida, 184" 0
+40 "R. Cardoso De Almeida, 414" 0
+41 "R. Cardoso De Almeida, 848" 0
+42 "R. Cardoso De Almeida, 1222" 0
+43 "R. Cardoso De Almeida, 1538" 0
+44 "R. Cardoso De Almeida, 1911" 0
+45 "R. Cardoso De Almeida, 2083" 0
+46 "R. Tácito De Almeida, 73" 0
+47 "Av. Dr. Arnaldo, 1125" 0
+48 "Faculdade De Saúde Pública Da USP" 0
+49 "Faculdade De Medicina Da USP" 0
+50 "Av. Paulista, 2319" 0
+51 "Av. Paulista, 2027" 0
+52 "Av. Paulista, 1578" 0
+53 "Av. Paulista, 901" 0
+54 "Av. Paulista, 659" 0
+55 "Av. Paulista, 171" 0
+56 "Av. Bernardino De Campos, 108" 0
+57 "Pça. Dr. Afrodisio Vidigal" 0
+58 "R. Vergueiro, 1900" 0
+59 "R. Vergueiro, 2157" 0
+60 "R. Domingos De Morais, 1164" 0
+61 "Av. Prof. Noé Azevedo, 208" 0
+62 "R. Vergueiro, 2575" 0
+63 "R. Vergueiro, 2223" 0
+64 "R. Vergueiro, 1845" 0
+65 "Viad. Sta. Generosa" 0
+66 "Av. Bernardino De Campos, 159" 0
+67 "Av. Paulista, 200" 0
+68 "Av. Paulista, 500" 0
+69 "Av. Paulista, 900" 0
+70 "Av. Paulista, 1374" 0
+71 "Av. Paulista, 1754" 0
+72 "Parada 1 - Frei Caneca" 0
+73 "Av. Paulista, 2452" 0
+74 "Av. Dr. Arnaldo, 188" 0
+75 "Parada 1 - Cemitério Do Araça" 0
+76 "Av. Dr. Arnaldo, 1000" 0
+77 "R. Cardoso De Almeida, 2416" 0
+78 "R. Cardoso De Almeida, 2076" 0
+79 "R. Cardoso De Almeida, 1849" 0
+80 "R. Cardoso De Almeida, 1489" 0
+81 "R. Cardoso De Almeida, 1221" 0
+82 "R. Cardoso De Almeida, 945" 0
+83 "R. Cardoso De Almeida, 679" 0
+84 "R. Cardoso De Almeida, 457" 0
+85 "Parada Traipu" 0
+86 "R. Traipu, 19" 0
+87 "R. Tupi, 216" 0
+88 "R. Dr. Candido Espinheira, 114" 0
+89 "Av. Pacaembu, 469" 0
+90 "Av. Pacaembu, 35" 0
+91 "Av. Dr. Abraão Ribeiro, 53" 0
+92 "Av. Dr. Abraão Ribeiro, 526" 0
+93 "R. Bsa. Porto Carreiro, 76" 0
+94 "Av. Bráz Leme, 278" 0
+95 "R. Marambaia, 321" 0
+96 "R. Marambaia, 67" 0
+97 "R. Bernardino Fanganiello, 220" 0
+98 "R. Ságuairu, 941" 0
+99 "R. Ságuairu, 581" 0
+100 "R. Urbano Duarte, 188" 0
+101 "R. Urbano Duarte, 382" 0
+102 "R. Urbano Duarte, 768" 0
+103 "Av. Baruel, 340" 0
+104 "R. Dr. Jorge Brand, 156" 0
+105 "Av. Casa Verde, 1475" 0
+106 "Av. Casa Verde, 1211" 0
+107 "Av. Casa Verde, 995" 0
+108 "Av. Casa Verde, 801" 0
+109 "R. Leão XIII, 583" 0
+110 "R. Leão XIII, 371" 0
+111 "R. Alfredo Pujol, 1804" 0
+112 "R. Alfredo Pujol, 1627" 0
+113 "R. Alfredo Pujol, 1389" 0
+114 "R. Alfredo Pujol, 997" 0
+115 "R. Alfredo Pujol, 503" 0
+116 "R. Alfredo Pujol, 29" 0
+117 "R. Durval Fontoura Castro, 19" 0
+118 "R. Tito Lívio, 54" 0
+119 "R. Jorge Duprat Figueiredo, 42" 0
+120 "Av. Túlio Teodoro De Campos, 150" 0
+121 "Av. Pedro Bueno, 1737" 0
+122 "Av. João Pedro Cardoso, 465" 0
+123 "Av. João Pedro Cardoso, 131" 0
+124 "Av. Dr. Lino De Moraes Leme, 55" 0
+125 "R. Tamoios, 584" 0
+126 "R. Tamoios, 410" 0
+127 "R. Tamoios, 186" 0
+128 "Av. Washington Luiz, 6372" 0
+129 "Av. Washington Luiz, 6542" 0
+130 "Lineu Gomes" 0
+131 "Av. Aratas, 1100" 0
+132 "Av. Aratas, 1324" 0
+133 "Av. Aratas, 1496" 0
+134 "Av. Aratas, 1778" 0
+135 "Av. Ceci, 1216" 0
+136 "Av. Ceci, 1400" 0
+137 "Av. Ceci, 1666" 0
+138 "Av. Ceci, 1822" 0
+139 "Av. Indianópolis, 3408" 0
+140 "São Judas Tadeu" 0
+141 "Parada 2 - Metrô São Judas B/C" 0
+142 "Av. Jabaquara, 2223" 0
+143 "Av. Jabaquara, 1909" 0
+144 "Av. Jabaquara, 1621" 0
+145 "Av. Jabaquara, 1381" 0
+146 "Av. Jabaquara, 1001" 0
+147 "Av. Jabaquara, 657" 0
+148 "Av. Jabaquara, 373" 0
+149 "Av. Jabaquara, 79" 0
+150 "R. Domingos De Morais, 3015" 0
+151 "Metrô Santa Cruz B/C" 0
+152 "R. Domingos De Morais, 2083" 0
+153 "R. Domingos De Morais, 1725" 0
+154 "Parada 2 - Frei Caneca" 0
+155 "Pedro Taques B/C" 0
+156 "Antônia De Queirós - B/C" 0
+157 "Caio Prado B/C" 0
+158 "R. Rego Freitas, 475" 0
+159 "Rego Freitas C/B" 0
+160 "Terminal Amaral Gurgel" 0
+161 "Nothmann C/B" 0
+162 "Angelica C/B" 0
+163 "Rosa E Silva C/B" 0
+164 "Pacaembu C/B" 0
+165 "R. Lavradio, 74" 0
+166 "R. Dr. Homem De Melo, 450" 0
+167 "R. Dr. Homem De Melo, 574" 0
+168 "R. Dr. Homem De Melo, 1048" 0
+169 "R. Apiacas, 144" 0
+170 "R. Apiacas, 489" 0
+171 "R. Vanderlei, 1392" 0
+172 "R. Vanderlei, 1602" 0
+173 "R. Caiowaa, 549" 0
+174 "R. Caiowaa, 371" 0
+175 "R. João Ramalho, 1395" 0
+176 "R. João Ramalho, 1143" 0
+177 "R. João Ramalho, 951" 0
+178 "R. Itapicuru, 613" 0
+179 "R. Itapicuru, 471" 0
+180 "R. Monte Alegre, 341" 0
+181 "R. Turiassú, 241" 0
+182 "Pacaembu B/C" 0
+183 "Rosa E Silva C/B" 0
+184 "Angelica B/C" 0
+185 "Nothmann C/B" 0
+186 "Parada Exclusiva" 0
+187 "R. Sebastião Pereira, 245" 0
+188 "Lgo. Do Arouche" 0
+189 "Lgo. Do Arouche, 57" 0
+190 "Av. Ipiranga, 102" 0
+191 "Caio Prado C/B" 0
+192 "Antônia De Queirós - C/B" 0
+193 "Pedro Taques C/B" 0
+194 "Paulista C/B" 0
+195 "R. Vergueiro, 2776" 0
+196 "Av. Prof. Noé Azevedo, 208" 0
+197 "R. Domingos De Morais, 2014" 0
+198 "R. Domingos De Morais, 2444" 0
+199 "R. Domingos De Morais, 2800" 0
+200 "R. Domingos De Morais, 3088" 0
+201 "Av. Jabaquara, 282" 0
+202 "Av. Jabaquara, 494" 0
+203 "Av. Jabaquara, 876" 0
+204 "Av. Jabaquara, 1170" 0
+205 "Av. Jabaquara, 1452" 0
+206 "Parada 1 - Metrô Saúde" 0
+207 "Av. Jabaquara, 1898" 0
+208 "Parada 2 - Metrô São Judas C/B" 0
+209 "Indianópolis" 0
+210 "Jabaquara" 0
+211 "Av. Ceci, 2117" 0
+212 "Av. Ceci, 1775" 0
+213 "Av. Ceci, 1449" 0
+214 "Av. Ceci, 1157" 0
+215 "Av. Aratas, 1807" 0
+216 "Av. Aratas, 1537" 0
+217 "Av. Aratas, 1335" 0
+218 "Cruz Vermelha Brasileira" 0
+219 "Av. Moreira Guimarães" 0
+220 "Av. Moreira Guimarães" 0
+221 "Av. Moreira Guimarães, 510" 0
+222 "Av. Moreira Guimarães" 0
+223 "Félix De Sousa" 0
+224 "Av. Washington Luiz, 6675" 0
+225 "Av. Washington Luiz, 6415" 0
+226 "Av. Washington Luiz" 0
+227 "Av. Washington Luiz, 5955" 0
+228 "Av. Washington Luiz, 5320" 0
+229 "R. Tamoios, 60" 0
+230 "R. Tamoios, 466" 0
+231 "R. Tamoios, 650" 0
+232 "Av. Dr. Lino De Moraes Leme, 91" 0
+233 "Av. João Pedro Cardoso, 158" 0
+234 "Av. João Pedro Cardoso, 562" 0
+235 "Av. Pedro Bueno, 1752" 0
+236 "Av. Túlio Teodoro De Campos, 55" 0
+237 "R. Jorge Duprat Figueiredo, 108" 0
+244
+66 67 10
+92 93 5
+87 88 3
+156 157 4
+166 167 9
+72 73 7
+222 223 2
+49 50 8
+7 8 11
+26 27 4
+57 58 10
+69 70 5
+100 101 8
+151 152 11
+180 181 12
+8 9 8
+1 2 6
+27 28 9
+113 114 10
+155 156 11
+225 226 4
+79 80 9
+137 138 11
+25 26 10
+153 61 5
+96 97 6
+29 30 9
+86 87 7
+130 131 3
+107 108 9
+172 173 3
+111 112 11
+237 117 9
+44 45 11
+177 178 12
+201 202 12
+56 57 6
+220 221 7
+59 60 7
+114 115 9
+143 144 9
+218 219 10
+170 171 11
+14 15 8
+65 66 10
+18 19 11
+116 0 3
+104 105 8
+206 207 11
+103 104 6
+214 215 7
+85 86 8
+217 218 9
+158 159 7
+46 47 7
+47 48 8
+22 23 10
+11 12 4
+165 37 11
+68 69 11
+13 14 12
+37 38 9
+134 135 4
+54 55 6
+53 54 9
+80 81 8
+211 212 7
+142 143 8
+236 237 5
+43 44 12
+63 64 2
+120 121 8
+20 21 11
+62 63 10
+71 72 8
+125 126 11
+105 106 10
+207 208 7
+212 213 11
+231 232 2
+12 13 12
+19 20 5
+21 22 4
+164 165 3
+136 137 9
+192 193 8
+213 214 5
+78 79 4
+17 18 8
+167 168 3
+99 100 9
+204 205 12
+229 230 10
+223 224 7
+132 133 2
+168 169 8
+189 190 9
+102 103 5
+89 32 7
+59 195 9
+126 127 11
+160 161 6
+184 185 5
+5 6 9
+161 162 4
+163 164 8
+88 89 7
+129 130 12
+157 158 6
+221 222 7
+147 148 2
+40 41 10
+198 199 2
+58 59 2
+121 122 7
+128 129 9
+179 180 8
+64 65 10
+122 123 11
+148 149 9
+208 209 10
+61 62 12
+76 77 999
+33 34 12
+73 74 11
+16 17 2
+178 179 2
+149 150 999
+186 187 8
+2 3 2
+36 90 8
+115 116 6
+234 235 2
+84 85 6
+235 236 10
+191 192 8
+185 186 999
+188 189 3
+81 82 9
+141 142 11
+226 227 12
+182 183 12
+159 160 12
+135 136 5
+101 102 6
+118 119 10
+91 92 2
+215 216 6
+196 197 12
+202 203 999
+98 99 6
+140 141 9
+31 32 5
+174 175 2
+109 110 11
+97 98 2
+228 229 9
+94 95 10
+175 176 7
+90 91 12
+40 166 9
+194 50 999
+219 220 9
+224 225 8
+93 94 4
+145 146 12
+117 118 8
+34 35 3
+45 46 7
+38 39 3
+123 124 5
+146 147 7
+77 78 10
+3 4 10
+0 1 9
+187 188 9
+195 196 9
+190 191 2
+173 174 4
+50 51 2
+28 29 9
+75 76 9
+67 68 11
+95 96 7
+150 151 3
+197 198 999
+32 33 12
+131 132 6
+176 177 8
+200 201 5
+60 61 10
+169 170 6
+152 153 2
+162 163 6
+227 228 9
+39 40 9
+15 16 9
+112 113 2
+193 194 11
+216 217 4
+183 184 999
+138 139 999
+10 11 5
+4 5 3
+52 53 10
+71 154 7
+110 111 10
+209 210 3
+83 84 7
+55 56 10
+51 52 4
+119 120 10
+74 75 5
+171 172 11
+108 109 10
+24 25 9
+203 204 10
+139 140 10
+144 145 2
+230 231 6
+9 10 5
+36 37 10
+70 71 12
+106 107 6
+127 128 4
+154 73 6
+233 234 3
+86 182 7
+41 42 7
+124 125 8
+42 43 3
+199 200 7
+210 211 8
+48 49 999
+73 155 10
+23 24 5
+181 85 999
+205 206 2
+232 233 11
+133 134 2
+35 36 8
+82 83 999
+30 31 11
+6 7 9
