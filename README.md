@@ -25,15 +25,23 @@ O grafo gerado possui **238 vértices e 244 arcos**, com pesos correspondentes a
 
 ## Como executar
 
+É necessário ter Python 3 instalado.
+
 1. Baixe ou clone o repositório.
-2. Instale as dependências necessárias ao projeto.
-3. Execute a interface gráfica:
+2. Abra a pasta do projeto no VSCode.
+3. No terminal, instale as dependências:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+4. Execute a aplicação:
 
 ```bash
 python app_gui.py
 ```
 
-4. Carregue o arquivo `grafo.txt` pelo menu da aplicação.
+5. Na interface, carregue o arquivo `grafo.txt` para iniciar as análises.
 
 ## Observação
 
