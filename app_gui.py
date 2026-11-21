@@ -218,7 +218,7 @@ class GrafoLista:
                             for estado in temporario.values())
             return True, (f"CSV carregado: {len(temporario)} arestas;\n "
                           f"{restritas} com restricao SIMULADA;\n "
-                          f"{len(temporario)-restritas} arestas sem acessibilidade verificada.")
+                          f"{len(temporario)-restritas} vertices sem acessibilidade verificada.")
         except (OSError, ValueError, TypeError) as erro:
             return False, f"Falha ao ler acessibilidade: {erro}"
 
