@@ -6,9 +6,9 @@ Projeto acadêmico da disciplina de **Teoria dos Grafos**. A aplicação represe
 
 ## Integrantes
 
-- **Nome:** [preencher] — **RA:** [preencher] — **E-mail:** [preencher]
-- **Professor:** [preencher]
-- **Curso / instituição:** [preencher]
+- **Nome:** David Mendes Saldanha de Miranda — **RA:** 10791596 — **E-mail:** davidmendes.saldanha@gmail.com
+- **Professor:** Ivan Oliveira
+- **Curso:** Ciência da Computação
 
 ## Dados e modelagem
 
@@ -96,11 +96,6 @@ As capturas de tela dos testes podem ser consultadas na pasta `evidencias_testes
 ## Limitações
 
 O programa utiliza apenas duas linhas, horários planejados e restrições fictícias. Não considera trânsito em tempo real, espera pelo ônibus, deslocamentos a pé entre paradas ou acessibilidade real verificada. A classificação de conexidade é **estrutural**, não uma certificação de acessibilidade.
-
-## Relatório e apresentação
-
-- Relatório: pasta [`relatorio/`](relatorio/).
-- Vídeo de apresentação: **[adicionar link público do YouTube após a gravação]**.
 
 ## Fontes
 
